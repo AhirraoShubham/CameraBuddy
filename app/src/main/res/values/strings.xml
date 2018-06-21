@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">CameraBuddy</string>
+    <string name="action_settings">Settings</string>
+    <string name="photographer">Photographer</string>
+    <string name="user">User</string>
+    <string name="user_login">User Login</string>
+    <string name="photographer_login">Photographer Login</string>
+    <string name="enter_your_email">Enter Your Email..</string>
+    <string name="login">Login</string>
+    <string name="enter_your_passwrod">Enter Your Passwrod..</string>
+    <string name="confirm_password">Confirm-Password...</string>
+    <string name="register">Register</string>
+    <string name="email">Email...</string>
+    <string name="password">Password...</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="last_name">Last Name..</string>
+    <string name="first_name">First Name....</string>
+    <string name="photographer_registration">- : PhotoGrapher Registration : -</string>
+    <string name="user_registration">- : User Registration : -</string>
+    <string name="already_user_click_here">Already User..?Click here.</string>
+    <string name="already_register_click_here">Already Register..?Click here.</string>
+    <string name="camera_details">Camera Details..</string>
+    <string name="next"><![CDATA[Next >>]]></string>
+    <string name="upload_your_best_photos">Upload Your Best Photos...</string>
+    <string name="done">Done</string>
+    <string name="details">Details..</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="photo_rate">Photo Rate</string>
+    <string name="photographer_name">PhotoGrapher Name</string>
+    <string name="city">City</string>
+    <string name="select_rates">Select Rates :-</string>
+    <string name="select_camera_type">Select Camera Type :-</string>
+    <string name="select_your_city">Select Your City :-</string>
+    <string name="photographer_email">Photographer Email</string>
+    <string name="textview">TextView</string>
+    <string name="welcome">Welcome</string>
+    <string name="camerabuddy_its_an_android_application_which_is_used_for_heiring_photographer_on_rent_basis">CameraBuddy its an android application which is used for heiring photographer on rent basis.</string>
+    <string name="about_application">- : About Application : -</string>
+    <string name="_9665949618">9665949618</string>
+    <string name="ahirrao_shubham_p">Ahirrao Shubham P</string>
+    <string name="spahirrao9_gmail_com">spahirrao9@gmail.com</string>
+    <string name="tvpcameratypedetails">tvPCameraTypeDetails</string>
+    <string name="tvpemaildetails">tvPEmailDetails</string>
+    <string name="tvpfnamedetails">tvPFnameDetails</string>
+    <string name="tvplnamedetails">tvPLnameDetails</string>
+    <string name="tvpmobiledetails">tvPMobileDetails</string>
+    <string name="tvpratedetails">tvPRateDetails</string>
+    <string name="tvpcitydetails">tvPCityDetails</string>
+    <string name="photographer_deatails">-: PhotoGrapher Deatails :-</string>
+    <string name="camerabuddy_is_an_android_application_which_is_basically_used_for_geting_a_camera_dslr_on_rent_basis_along_with_photographer_camerabuddy_like_ola_and_uber_application_user_can_see_all_camerabuddies_who_have_registered_themselves_and_hire_any_camerabuddy_from_them_user_can_see_areawise_camerabuddies">CameraBuddy is an android application, which is basically used for geting a Camera(DSLR) on rent basis along with photographer(CameraBuddy).like OLA and UBER Application. User can see all CameraBuddies who have registered themselves and hire any CameraBuddy from them. User can see areawise CameraBuddies.</string>
+    <string name="spahirrao8_gmail_com">spahirrao8@gmail.com</string>
+    <string name="choose_your_city">Choose Your City</string>
+    <string name="phcameratype">PhCameraType</string>
+    <string name="phcity">PhCity</string>
+    <string name="phemail">PhEmail</string>
+    <string name="phfname">PhFname</string>
+    <string name="phlname">PhLname</string>
+    <string name="phmobile">PhMobile</string>
+    <string name="phrate">PhRate</string>
+    <string-array name="spinnerpcity">
+        <item>Chalisgaon</item>
+        <item>Jalgaon</item>
+        <item>Nashik</item>
+        <item>Pune</item>
+        <item>Aurangabad</item>
+        <item>Mumbai</item>
+        <item>Dhule</item>
+        <item>Beed</item>
+        <item>Shirdi</item>
+    </string-array>
+    <string-array name="spinerrates">
+        <item>Rs5~20</item>
+        <item>Rs21~40</item>
+        <item>Rs41~60</item>
+        <item>Rs61~80</item>
+        <item>Rs81~100</item>
+        <item>Rs101~120</item>
+        <item>Rs121~150</item>
+    </string-array>
+    <string-array name="spinercameratype">
+        <item>SONY DSLR</item>
+        <item>Canon DSLR</item>
+        <item>Nikon DSLR</item>
+    </string-array>
+    <string-array name="spinnerucity">
+        <item>Chalisgaon</item>
+        <item>Jalgaon</item>
+        <item>Nashik</item>
+        <item>Pune</item>
+        <item>Aurangabad</item>
+        <item>Mumbai</item>
+        <item>Dhule</item>
+        <item>Beed</item>
+        <item>Shirdi</item>
+    </string-array>
+</resources>
